@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# OpenLibrary
+ol_dump*.txt
+
+# GunDB
+radata*/
+
+# vscode
+.vscode/
